@@ -1,3 +1,4 @@
+# To import this file, RUN `curl https://raw.githubusercontent.com/jihunroh/dotfiles/main/.bashrc?token=GHSAT0AAAAAACN7RPP6ZDP6LAYXFZWXIYXUZOFMELA -o .bashrc`
 # ~/.bashrc: executed by bash(1) for non-login shells.
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
 # for examples
